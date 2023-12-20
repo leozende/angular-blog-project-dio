@@ -13,7 +13,7 @@ A blog created using Angular, aiming for a better understanding of the framework
 
 ## 🖼 Visão geral
 
-![Angular Blog Image](./assets/images/angular-blog.png)
+![Angular Blog Image](./src/assets/images/angular-blog.png)
 
 ## 📁 Referências
 
